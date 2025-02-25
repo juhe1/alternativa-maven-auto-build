@@ -1,0 +1,10 @@
+alternativa_sources/
+compilation_cache/
+compilation_cache2/
+local_repository/
+local_repository2/
+.hash_files/
+.vscode/
+local_repo_backup/
+pyrightconfig.json
+run_auto_build.bat
