@@ -6,5 +6,5 @@ local_repository2/
 .hash_files/
 .vscode/
 local_repo_backup/
+old_plugin_compilation/
 pyrightconfig.json
-run_auto_build.bat
